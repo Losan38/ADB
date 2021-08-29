@@ -1,0 +1,4 @@
+git clone https://github.com/ASHWIN990/ADB-Toolkit.git
+cd ADB-Toolkit
+sudo chmod +x install.sh
+sudo ./install.sh -i “or” sudo bash install.sh -i
